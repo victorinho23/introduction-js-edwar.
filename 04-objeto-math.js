@@ -20,12 +20,15 @@ console.log (result);
 
 
 
-let mum1 = Math.floor (Math.random ()*100);
-let mum2 = Math.floor (Math.random ()*100);
+let num1 = Math.floor (Math.random ()*100);
+let num2 = Math.floor (Math.random ()*100);
 
-console.log (resultado.floor (Math.random ()*100));
-console.log (resultadoresta.floor (Math.random ()*100));
-console.log (resultadodivision.floor (Math.random ()*100));
-console.log (resultadomultiplicacion.floor (Math.random ()*100));
+let suma = num1 + num2
+let resta = num1 - num2
+let division = num1 / num2
+let multiplicacion = num1 * num2
 
-
+console.log (suma);
+console.log (resta);
+console.log (division);
+console.log (multiplicacion);

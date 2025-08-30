@@ -7,11 +7,11 @@ console.log (sensor1);
 console.log (sensor2);
 
 //estas dos formas no son tan comunes
-//const sensor3 = string ("presion");
-//const sensor4 = new String("humedad");
+const sensor3 = String("presion");
+const sensor4 = new String("humedad");
 
-//console.log (sensor3);
-//console.log (sensor4);
+console.log (sensor3);
+console.log (sensor4);
 
 //para saber el tipo de dato de la variable
 
@@ -24,10 +24,10 @@ console.log (product);
 console.log (product2);
 
 //metodos con strings
-console.log (product2.lenght);
+console.log (product2.length)
 
 let Name = "Victor Manuel Cortes Castrillon"
-console.log (Name.lenght);
+console.log (Name.length);
 
 //sirve para saber si una cdena de texto existe en una frase
 //indexof nos muestra la posicion donde se encuentra la cadena de texto
@@ -38,7 +38,7 @@ console.log ( phrase.indexOf("SENA") );
 
 //hacer lo mismo de una forma mas moderna, el resultado es un true o un false
 
-let phrases = "aqui vamos a buscar la palabra SENA"
+let phrases = "aqui vamos a buscar la palabra SENA";
 
 console.log ( phrases.includes("SENA") );
 
