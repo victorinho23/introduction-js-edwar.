@@ -1,8 +1,6 @@
 //Victor Manuel Cortes Castrillon   precedencia
 
-//La precedencia sirve para definir en que orden se ejecutan las operaciones
-//aritmeticas, si queremos tener control sobre el orden en que se ejecutan
-//
+////Victor Manuel Cortes Castrillon, La precedencia sirve para definir en que orden se ejecutan las operaciones aritmeticas, si queremos tener control sobre el orden en que se ejecutan debemos usar parentesis
 
 //Ejemplo
 

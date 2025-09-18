@@ -60,4 +60,4 @@ console.log ("¿Eel objeto esta sellado?: " + Object.isSealed (product) )
 
 
 
-
+ 

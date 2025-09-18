@@ -1,7 +1,7 @@
-//Victor Manuel Cortes Castrillon   
+//Victor Manuel Cortes Castrillon, incrementos en js
 
 
-let score = 20;
+
 //Victor Manuel Cortes Castrillon, incremento de una unidad
 
 // score = 10;
@@ -13,6 +13,7 @@ let score = 20;
 // console.log (++score);
 // console.log (--score);
 
+let score = 20;
 score -= 5;
 
 console.log (score)
