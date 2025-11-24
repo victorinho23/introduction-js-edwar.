@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=xampp
+Exec=sudo /opt/lampp/lampp start
+Comment=
+Terminal=true
+PrefersNonDefaultGPU=false
+Icon=cinnamon-panel-launcher
+Type=Application
