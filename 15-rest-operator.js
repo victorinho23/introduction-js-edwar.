@@ -16,3 +16,11 @@ months.push ("january")
 months.unshift ("january")
 
 console.table (months)
+
+const nuevosMeses = ["diciembre","enero", "febrero", "marzo"];
+
+nuevosMeses.push ("mayo")
+console.table (nuevosMeses)
+
+const nuevoArreglo = [...nuevosMeses,"septiembre"]
+console.log (nuevoArreglo)

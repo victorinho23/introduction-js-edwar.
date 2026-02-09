@@ -31,7 +31,7 @@ console.log (Name.length);
 
 //sirve para saber si una cdena de texto existe en una frase
 //indexof nos muestra la posicion donde se encuentra la cadena de texto
-//si la cadena no eiste muestra un resultado menor que 0
+//si la cadena no existe muestra un resultado menor que 0
 let phrase = "aqui vamos a buscar la palabra SENA"
 
 console.log ( phrase.indexOf("SENA") );

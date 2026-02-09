@@ -22,5 +22,12 @@ console.log (productName);
 const {price, available, productname} = product;
 console.log (price, available, productname)
 
+const product2 = {
+    productname1 : "Ferrari",
+    price1 : 500.000,
+    avaliable1 : true,
+};
 
+const {price1, avaliable1, productname1} = product2;
+console.table (product2)
 

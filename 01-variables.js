@@ -18,7 +18,11 @@
 //Ya no se usa var para declalar las variables, actualmente se usa let.
 //en JS no es obligatorio indicar el tipo de variable.
 //en java script se puede o no usar punto y coma al final de una sentencia.
-
+const product2 = {
+    productname1 : "Ferrari",
+    price1 : 500.000,
+    avaliable1 : true,
+};
 var producto = "sensor-1";
 var producto2 = "sensor-2";
 

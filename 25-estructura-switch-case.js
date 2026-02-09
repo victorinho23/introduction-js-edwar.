@@ -1,6 +1,7 @@
 // Estructura switch
 
-// Permite evaluar una expresion y ejecutar diferentes bloques de codigo segun el caso que coincida
+// Permite evaluar una expresion y ejecutar diferentes bloques de codigo segun el caso que coincida,
+// poe decirlo de otro modo es una especie de validacion segun lo que se ingrese.
 
 const paymentMethod = String(prompt ("ingrese su metodo de pago"))
 

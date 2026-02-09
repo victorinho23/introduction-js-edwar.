@@ -58,7 +58,7 @@ const num3 = 5 === "5";
 console.log ("igualacion doble", num3);
 
 // ==============================================
-// En conclusion para un arreglo plano se usa includes y para un arreglo con pobjetos se usa some.
+// En conclusion para un arreglo plano se usa includes y para un arreglo con objetos se usa some.
 // const result4 = shoppingcar.some (function(product){
 //     return product.productName === "Mouse"
 // })

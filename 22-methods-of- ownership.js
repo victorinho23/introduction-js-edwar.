@@ -22,11 +22,11 @@ player.delete (217)
 
 
 const playlist ={
-    list : function (id){console.log (`choose song in the playlist`)},
+    list : function (id){console.log (`choose song in the playlist...`)},
     
-  option1 : function (bohemianrhapsody) {console.log (`òpcion1: ${bohemianrhapsody}`)},
+  option1 : function (Song) {console.log (`option1: ${Song}`)},
 }
 
 console.log (playlist);
 playlist.list (218)
-playlist.option1
+playlist.option1 ("bohemianrahpsody")
