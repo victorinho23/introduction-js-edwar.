@@ -45,9 +45,9 @@ shoppingcart.forEach(function(product){
 
 // Ahora forEach con arrow function
 
-shoppingcart.forEach((product)=> 
-  console.log(product)
-); 
+// shoppingcart.forEach((product)=> 
+//   console.log(product)
+// ); 
 
 // Arrow function acceder a un elemnto especifico
 shoppingcart.forEach((product)=>
@@ -64,4 +64,8 @@ shoppingcart.forEach((product)=>
   console.log(product.productocolor)
 ); 
 
+
+const ARRAY = shoppingcart.map(product=> `El nombre del producto es: ${product.productName} ${product.price}`);
+
+console.log (ARRAY)
 
