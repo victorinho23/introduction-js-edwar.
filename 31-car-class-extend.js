@@ -14,7 +14,7 @@ class Fullcar {
     }
 };
 const car1 = new Fullcar("kia","grey","Ev5",123454,true,);
-console.log(car1.run());
+console.log(car1.rutítulon());
 class BasicCar extends Fullcar{
     constructor(brand,color,model,id,electric){
         super(brand,color,model,id,"","")
